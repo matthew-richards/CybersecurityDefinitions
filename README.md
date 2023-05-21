@@ -5,7 +5,7 @@ This repository contains Cyber Security flashcards in a format compatible with j
  1. About
 
 	jMemorize is written in Java and uses Leitner-flashcards to make memorizing facts not only more efficient but also more fun. 
-	jMemorize manages your learn progress and features categories, statistics and a visually appealing and intuitive interface.
+	jMemorize manages your learning progress and features categories, statistics and a visually appealing and intuitive interface.
 
  2. Download Java (if needed)
 
