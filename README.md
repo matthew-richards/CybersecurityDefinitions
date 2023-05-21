@@ -10,6 +10,7 @@ This repository contains Cyber Security flashcards in a format compatible with j
  2. Download Java (if needed)
 
     To test for for Java installation in Windows or Linux, open a command prompt or terminal and type: java -version
+    
     If Java isn't installed installed can get the current Sun Java Runtime Environment for Windows from https://www.java.com
     In Linux, you can install the latest Java Runtime Environment with yum, apt-get, etc. 
     
