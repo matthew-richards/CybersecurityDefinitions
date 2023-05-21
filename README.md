@@ -15,15 +15,14 @@ This repository contains Cyber Security flashcards in a format compatible with j
     
  3. Download jMemorize 
  
-    You can get the latest jMemorize from https://sourceforge.net/projects/jmemorize/
+    Get the latest jMemorize from https://sourceforge.net/projects/jmemorize/.
     Alternatively you may clone https://github.com/riadd/jMemorize and build the application yourself.
  
  4.  How to run jMemorize
     
-    Double-click 'jMemorize-1.3.0.jar' to start the application or type 'javaw -jar jMemorize-1.3.0.jar' from command line.
+   Double-click 'jMemorize-1.3.0.jar' to start the application or type 'javaw -jar jMemorize-1.3.0.jar' from command line.
 
 5.   Download and use flash cards
 
-    Download flash cards in .jml format from this repository and open them from the File menu in jMemorize.
-    For convenience you will also find the files in .csv format, which can be used to import definitions to 
-    one of your existing flash card decks.
+   Download flash cards in .jml format from this repository and open them from the File menu in jMemorize.
+   For convenience you will also find the files in .csv format, which can be used to import definitions to one of your existing flash card decks.
